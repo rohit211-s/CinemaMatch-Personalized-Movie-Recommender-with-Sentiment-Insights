@@ -37,6 +37,6 @@ Cosine similarity is a metric that calculates the cosine of the angle between tw
 
   
 ## Additional Features to Explore
-Personalized Dashboards: Integrate a dashboard that tracks past recommended movies and user interactions for continuous improvement.
-Genre-Specific Filtering: Allow users to select specific genres or exclude certain themes from their recommendations.
-Sentiment Trend Analysis: Visualize sentiment trends over time, showing how public opinion about a movie has evolved.
+1. Personalized Dashboards: Integrate a dashboard that tracks past recommended movies and user interactions for continuous improvement.
+2. Genre-Specific Filtering: Allow users to select specific genres or exclude certain themes from their recommendations.
+3. Sentiment Trend Analysis: Visualize sentiment trends over time, showing how public opinion about a movie has evolved.
