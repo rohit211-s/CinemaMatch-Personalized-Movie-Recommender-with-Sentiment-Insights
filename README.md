@@ -5,7 +5,6 @@
 ## Overview
 **CinemaMatch** is a recommendation engine that suggests movies similar to those you already enjoy while providing sentiment analysis insights based on user reviews. This tool goes beyond typical recommendations by analyzing real user sentiments for a deeper understanding of each film.
 
-![GIF](./static/mrswsa.gif)
 
 ## Key Features
 - **Customized Movie Suggestions**: CinemaMatch provides recommendations based on a user’s selected movie preferences, focusing on elements like genre, title, runtime, rating, poster, and more.
@@ -27,6 +26,7 @@
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 6. Hurray! That's it.
 
+![GIF](./static/mrswsa.gif)
 
 ## Behind the Recommendation Logic
 ## Similarity Scoring 
