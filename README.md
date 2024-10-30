@@ -27,12 +27,15 @@
 
 
 ## Behind the Recommendation Logic
-## Similarity Scoring: 
+## Similarity Scoring 
 The system uses a similarity scoring method to determine movies closest in character to the user’s preferred movie. By analyzing text features of each movie, CinemaMatch assigns a similarity score based on the cosine similarity between selected movie details.
 
-## Cosine Similarity Explained: 
+## Cosine Similarity Explained
 Cosine similarity is a metric that calculates the cosine of the angle between two vectors in a multi-dimensional space, representing the similarity between two text documents. It's beneficial here because even if two movies have different amounts of descriptive text, they may still share similar themes or concepts, leading to a high similarity score. A smaller angle implies higher similarity, which allows for more relevant recommendations.
+
   ![image](https://user-images.githubusercontent.com/36665975/70401457-a7530680-1a55-11ea-9158-97d4e8515ca4.png)
+
+  
 ## Additional Features to Explore
 Personalized Dashboards: Integrate a dashboard that tracks past recommended movies and user interactions for continuous improvement.
 Genre-Specific Filtering: Allow users to select specific genres or exclude certain themes from their recommendations.
