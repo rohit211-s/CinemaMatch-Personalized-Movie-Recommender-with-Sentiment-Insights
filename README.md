@@ -34,9 +34,20 @@ The system uses a similarity scoring method to determine movies closest in chara
 Cosine similarity is a metric that calculates the cosine of the angle between two vectors in a multi-dimensional space, representing the similarity between two text documents. It's beneficial here because even if two movies have different amounts of descriptive text, they may still share similar themes or concepts, leading to a high similarity score. A smaller angle implies higher similarity, which allows for more relevant recommendations.
 
   ![image](https://user-images.githubusercontent.com/36665975/70401457-a7530680-1a55-11ea-9158-97d4e8515ca4.png)
-
+  
+More about Cosine Similarity : [Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
   
 ## Additional Features to Explore
 1. Personalized Dashboards: Integrate a dashboard that tracks past recommended movies and user interactions for continuous improvement.
 2. Genre-Specific Filtering: Allow users to select specific genres or exclude certain themes from their recommendations.
 3. Sentiment Trend Analysis: Visualize sentiment trends over time, showing how public opinion about a movie has evolved.
+
+
+
+### Sources of the datasets 
+
+1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+3. [List of movies in 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
+4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
+5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
